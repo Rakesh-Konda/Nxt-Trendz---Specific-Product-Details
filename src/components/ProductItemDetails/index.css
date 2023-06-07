@@ -1,0 +1,75 @@
+/* Write your CSS here */
+.iii {
+  width: 250px;
+  height: 350px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.y {
+  border: 0px solid transparent;
+  background-color: transparent;
+  margin-bottom: 10px;
+}
+.col {
+  background-color: #3b82f6;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.p {
+  color: white;
+  margin-left: 5px;
+}
+.star {
+  width: 20px;
+  height: 20px;
+  margin-top: 16px;
+  margin-left: 5px;
+}
+.cen {
+  display: flex;
+}
+.jar {
+  display: flex;
+}
+.min {
+  margin-top: 20px;
+}
+.m {
+  margin-right: 25px;
+}
+.pp {
+  margin-left: 15px;
+}
+.but {
+  color: white;
+  background-color: #3b82f6;
+  border: 0px solid transparent;
+}
+.hlo {
+  display: flex;
+  justify-content: space-around;
+}
+.down {
+  margin: 10px;
+}
+.l {
+  width: 600px;
+}
+.in {
+  width: 800px;
+  height: 500px;
+}
+.bv {
+  color: white;
+  background-color: blue;
+  border: 0px solid transparent;
+}
+.cd {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

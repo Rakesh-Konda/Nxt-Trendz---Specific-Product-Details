@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.im {
+  width: 130px;
+  height: 120px;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.li {
+  margin: 10px;
+}
+.cc {
+  background-color: #3b82f6;
+  display: flex;
+  width: 50px;
+  border-radius: 10px;
+  margin-left: 5px;
+}
+.o {
+  color: white;
+  margin-left: 2px;
+}
+.st {
+  width: 20px;
+  height: 20px;
+  margin-top: 16px;
+  margin-left: 5px;
+}
+.vv {
+  display: flex;
+}
+.uu {
+  display: flex;
+}
